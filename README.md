@@ -1,6 +1,6 @@
 # RG-labeller
 * [https://doi.org/10.14341/CBAI-2022-74](https://doi.org/10.14341/CBAI-2022-74) *
-![Постер проекта](my_poster.png)
+![Постер проекта](my_poster.jpeg)
 
 [Скачать постер в формате PDF](my_poster.pdf)
 

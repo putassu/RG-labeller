@@ -1,5 +1,8 @@
 # RG-labeller
 * [https://doi.org/10.14341/CBAI-2022-74](https://doi.org/10.14341/CBAI-2022-74) *
+![Постер проекта](my_poster.png)
+
+[Скачать постер в формате PDF](my_poster.pdf)
 
 ## Запуск
 * Для запуска необходим интерпретатор Python 3
